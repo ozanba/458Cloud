@@ -4,7 +4,7 @@
 ```sh
 git clone https://github.com/ozanba/458Cloud.git  
 cd 458Cloud  
-python3 pascal.py  
+python3 pascaltriange.py  
 ```
 
 ## Notes  
